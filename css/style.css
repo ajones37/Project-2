@@ -1,9 +1,9 @@
-#main-navbar{
+nav{
 	background-color:#97C8EB;
 	overflow: hidden;
 }
 
-#main-navbar ul{
+ul{
 	list-style-type: none;
 	padding: 0;
 	margin: 0;
@@ -12,7 +12,7 @@
 	float: left;
 }
 
-#main-navbar ul li{
+ul li{
 	display: block;
 	float: left;
 	position: relative;
