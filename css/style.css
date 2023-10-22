@@ -1,8 +1,11 @@
 body{
+	margin: 0;
+	padding: 0;
 	text-align:center;	
 }
 
 header{
+	background-color:#D3B5E3;
 	text-align:center;
 }
 
