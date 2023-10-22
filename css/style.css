@@ -18,3 +18,7 @@ nav ul li{
 	position: relative;
 	right: 50%;
 }
+
+nav ul li a:hover{
+	background-color:000
+}
