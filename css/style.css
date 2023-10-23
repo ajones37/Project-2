@@ -9,6 +9,12 @@ header{
 	text-align:center;
 }
 
+#navbar-container{
+	float:left;
+	width:33%;
+	position:relative;
+}
+
 h1{
 	text-align:center;
 }
@@ -40,6 +46,3 @@ h1{
 	background-color:000
 }
 
-#onpage{
-	text-decoration:underline overline;
-}
