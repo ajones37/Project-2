@@ -30,15 +30,16 @@ h1{
 	margin: 0;
 	position: relative;
 	border-style:color:#CCD5FF; double;
-
-	
-
 }
 
 #main-navbar ul li{
 	display: block;
 	position: relative;
 	right: 50%;
+}
+
+#onpage{
+	text-decoration: underline overline;
 }
 
 #main-navbar ul li a:hover{
