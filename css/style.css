@@ -40,6 +40,7 @@ h1{
 	background-color:000
 }
 
-#onpage{
-	text-decoration:underline overline;
+	display:block;
+	text-decoration:none;
+	background-color:000
 }
