@@ -21,7 +21,7 @@ h1{
 }
 
 #main-navbar{
-	background-color:#859BFF;
+	background-color:#97C8EB;
 	overflow: hidden;
 }
 
@@ -43,9 +43,6 @@ h1{
 	display:block;
 	text-decoration:none;
 	background-color:000;
-	position: relative;
-	right: 50%;
-	
 }
 
 ul{
