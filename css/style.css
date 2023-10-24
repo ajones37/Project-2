@@ -45,7 +45,8 @@ h1{
 	background-color:000;
 }
 
-ul a:hover{
+ul{
+	list-style-type:none;
 	display:block;
 	text-decoration:none;
 	background-color:000;
