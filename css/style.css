@@ -33,7 +33,7 @@ h1{
 }
 
 #main-navbar ul li{
-	display: block;
+	display:block;
 	position: relative;
 	right: 50%;
 }
@@ -52,4 +52,12 @@ ul{
 	display:block;
 	text-decoration:none;
 	background-color:000;
+}
+
+section{
+	padding: 15px;
+	margin: 10px auto;
+	background-color:#CCC7B9;
+	border-style: double;
+	border-radius: 5px;
 }
