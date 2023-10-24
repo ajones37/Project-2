@@ -28,7 +28,7 @@ h1{
 	border-style:color:#CCD5FF; double;
 }
 
-#main-nav {
+.main-nav {
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -39,7 +39,7 @@ h1{
   width: 100%; 
 }
 
-#main-nav li {
+.main-nav li {
   display: inline;
   margin-right: 20px; 
 }
