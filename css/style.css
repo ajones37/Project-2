@@ -33,7 +33,7 @@ h1{
 	border-style:color:#CCD5FF; double;
 }
 
-#onpage{
+#onpage {
 	text-decoration: underline;
 }
 
@@ -41,6 +41,7 @@ h1{
 	display:block;
 	text-decoration:none;
 	background-color:000;
+
 }
 
 ul{
@@ -64,10 +65,11 @@ section{
   text-align: center;
   margin: 0;
   padding: 0;
+  
 }
 
 #nav li {
-  display: inline-block;
+  display: inline;
   font-size: 20px;
   padding: 20px;
 }
