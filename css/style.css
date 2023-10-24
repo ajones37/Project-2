@@ -33,11 +33,7 @@ h1{
 	border-style:color:#CCD5FF; double;
 }
 
-#main-navbar ul li{
-	display:block;
-	position: relative;
-	right: 50%;
-}
+
 
 #onpage{
 	text-decoration: underline;
@@ -46,7 +42,10 @@ h1{
 #main-navbar ul li a:hover{
 	display:block;
 	text-decoration:none;
-	background-color:000
+	background-color:000;
+	position: relative;
+	right: 50%;
+	
 }
 
 ul{
