@@ -49,6 +49,11 @@ h1{
 	text-decoration: underline;
 }
 
+#main-navbar ul li a{
+	display:block;
+}
+
+
 #main-navbar ul li a:hover{
 	display:block;
 	text-decoration:none;
