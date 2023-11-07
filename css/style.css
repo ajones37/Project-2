@@ -12,7 +12,7 @@ header{
 }
 
 #navbar-container{
-	float:center;
+	float:inherit;
 	width:100%;
 	position:relative;
 }
