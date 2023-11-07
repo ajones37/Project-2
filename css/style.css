@@ -26,7 +26,7 @@ h1{
 	padding: 0;
 	margin: 0;
 	position: relative;
-	border-style:color:#CCD5FF; double;
+	border-style: 2px double; #CCD5FF;
 }
 
 .main-nav {
